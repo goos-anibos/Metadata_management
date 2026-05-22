@@ -1,2 +1,3 @@
 # Metadata_management
-Repository to store metadata management issues
+A repository to manage metadata issues
+
